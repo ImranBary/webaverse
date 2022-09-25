@@ -151,6 +151,30 @@
       "dynamic":true
     },
     {
+      "position":[45.777,4.1,-20.946],
+      "quaternion":[0,-0.523,0,0.853],
+      "scale":[0.1,0.1,0.1],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmZk8AgmB6M1UWCWbCsxmgtw7K9Ga9zHpMAV42drUaywqS/thomas6props.glb",
+      "dynamic":true
+    },
+    {
+      "position":[45.728,5.956,-26.683],
+      "quaternion":[0,-0.345,0,0.939],
+      "scale":[2,2,2],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmWHE77KnjcHJEhRWHa67ZfTEfZKYiSASNnLnzkHHTFyg2/medieval_castle_window.glb",
+      "dynamic":true
+    },
+    {
+      "position":[70.767,1.36,17.387],
+      "quaternion":[0,0,0,1],
+      "scale":[1,1,1],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmPDmniAK2Cuq7yzEgGks1YJSB4dUQSNJt9pVJw2T923fC/mannequins.glb",
+      "dynamic":true
+    },
+    {
       "position": [
         0,
         0,
