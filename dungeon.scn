@@ -1,0 +1,164 @@
+{
+  "objects": [
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "ambient",
+        "args": [[145,170,255], 0.5]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "spot",
+        "args": [[145,170,255], 3,10,300,5,50],
+        "position": [1, 2, 3],
+        "shadow": [150, 5120, 0.1, 10000, -0.0001]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "point",
+        "args": [[255,90,0],10,20,1],
+        "position": [57.445,2.89,5.19]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "spot",
+        "args": [[255,255,255],2,20,90,1,1],
+        "position": [41.222,5.646,-20.699]
+      }
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/skybox-360/index.js"
+    },
+    {
+      "position": [
+        50,
+        0.1,
+        5
+      ],
+      "quaternion": [
+        0,
+        0.414,
+        0,
+        0.91
+      ],
+      "physics": true,
+      "start_url": "https://ipfs.webaverse.com/QmZAA2iJPsawL1L3H8bPW2jpJ1YRHjAjgyS2h99CtqcyJK/modular_dungeon.glb",
+      "dynamic": true
+    },
+    {
+      "position":[68.087,0,6.08],
+      "quaternion":[-0.004,0.374,0.007,0.927],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmcUw8R6tMH6czmiuEQCZiB2KTaj1CNnUqGMyDZNuuxMb9/dungeon_gateway.glb",
+      "dynamic":true
+    },
+    {
+      "position":[70.667,3.3,23.358],
+      "quaternion":[0,0,0,-1],
+      "scale":[0.2,0.2,0.2],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmST3sCHigw9wJAAyHk51jFn6fLye2jmNtEhF9VtPwviwW/old_lamp.glb",
+      "dynamic":true
+    },
+    {
+      "position":[70.667,3.3,23.358],
+      "quaternion":[0,0,0,-1],
+      "physics":true,
+      "start_url":"https://webaverse.github.io/light-flicker/index.js",
+      "dynamic":true
+    },
+    {
+      "position":[73.961,0.1,26.419],
+      "quaternion":[0,0.384,0,0.923],
+      "scale":[1.5,1.5,1.5],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmPUuwGsRQaKwDJ3U6Q2NqFc1n3JWr6Ym4mwT4ZrsLzgRx/horror_bed.glb",
+      "dynamic":true
+    },
+    {
+      "position":[49.265,0.1,-0.195],
+      "quaternion":[0,0,0,1],
+      "scale":[0.01,0.01,0.01],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmRkCZvqNtxHJRWxXWpWiEiRr66y9ipbiZU8T1tWnSspFz/cart_corpse_the_darkest_red.glb",
+      "dynamic":true
+    },
+    {
+      "position":[57.269,0.979,5.164],
+      "quaternion":[0,-0.924,-0.045,0.379],
+      "scale":[0.05,0.05,0.05],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/Qmau6oQCsDiyJG6kmRtWYuPyQKN44iRDeph5dMd2g5fZk2/torch.glb",
+      "dynamic":true
+    },
+    {
+      "position":[55.875,0.1,-1.56],
+      "quaternion":[0,0.179,0,0.984],
+      "scale":[1.2,1.2,1.2],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/Qmdjoyj875kjfPWPefQpmWNTR9NbyucGX5un6CWK98cq8X/corpse.glb",
+      "dynamic":true
+    },
+    {
+      "position":[55,0.121,-0.6],
+      "quaternion":[0,-0.345,0,0.939],
+      "scale":[1,1,1],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmW8rUdM9exqww796XvfwQ4XnNkZ3mEME8cfLc2J3KTcdy/prison_cell_door.glb",
+      "dynamic":true
+    },
+    {
+      "position":[45.845,0.1,9.68],
+      "quaternion":[0,-0.345,0,0.939],
+      "scale":[1,1,1],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmW8rUdM9exqww796XvfwQ4XnNkZ3mEME8cfLc2J3KTcdy/prison_cell_door.glb",
+      "dynamic":true
+    },
+    {
+      "position":[40.316,4.12,-28.893],
+      "quaternion":[0,-0.379,0,0.925],
+      "scale":[1.1,1.1,1.1],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmUwrPt4aKmMfPt7mKF23fmYQ6cnhZmYebPHca61ATDab4/office_-_assets.glb",
+      "dynamic":true
+    },
+    {
+      "position":[41.222,5.646,-20.699],
+      "quaternion":[0,0,0,1],
+      "scale":[0.005,0.005,0.005],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmebLwcq8np6p4dovG31415sNeT7TQaj5KZwWxwqPgFXxt/celling_lights.glb",
+      "dynamic":true
+    },
+    {
+      "position":[35.127,4.435,-21.388],
+      "quaternion":[0,0.397,0,0.918],
+      "scale":[1,1,1],
+      "physics":true,
+      "start_url":"https://ipfs.webaverse.com/QmYznMDsikB9YvTJystY4oc52497KYgn3XLBBuHnNkfKVY/prison_bunk_bed.glb",
+      "dynamic":true
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "physics": true,
+      "start_url": "https://webaverse.github.io/block/grid.glb",
+      "dynamic": false
+    }
+  ]
+}
