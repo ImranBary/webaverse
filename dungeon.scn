@@ -202,7 +202,8 @@
       "dynamic":false
     },
      {
-      "position":[50.50,1.65,5.43],
+      "position":[50.5,0.1,5.43],
+      "quaternion":[0,0.934,0,0.356]
       "start_url":"https://ipfs.webaverse.com/QmXk4e8YqiFyUyknUPu2SbtXjTmFugrt9jnBoKEZYmA6mh/old greg.vrm",
       "dynamic":false
     },
