@@ -201,6 +201,11 @@
       "start_url":"https://ImranBary.github.io/webaverse/audio/flicker.js",
       "dynamic":false
     },
+     {
+      "position":[50.21,1.52,8],
+      "start_url":"https://ipfs.webaverse.com/QmXk4e8YqiFyUyknUPu2SbtXjTmFugrt9jnBoKEZYmA6mh/old greg.vrm",
+      "dynamic":false
+    },
     {
       "position": [
         0,
