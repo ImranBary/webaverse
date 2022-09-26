@@ -175,6 +175,21 @@
       "dynamic":true
     },
     {
+      "position":[0,0,0],
+      "start_url":"https://ImranBary.github.io/webaverse/audio/ambient.js",
+      "dynamic":false
+    },
+     {
+      "position":[0,0,0],
+      "start_url":"https://ImranBary.github.io/webaverse/audio/spooky.js",
+      "dynamic":false
+    },
+     {
+      "position":[0,0,0],
+      "start_url":"https://ImranBary.github.io/webaverse/audio/more_spooky.js",
+      "dynamic":false
+    },
+    {
       "position": [
         0,
         0,
