@@ -21,7 +21,7 @@ export default () => {
     function (buffer) {
       sound.setBuffer(buffer);
       sound.setLoop(true);
-      sound.setVolume(0.25);
+      sound.setVolume(1);
       sound.play();
     }
   );
