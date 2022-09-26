@@ -8,6 +8,13 @@
       }
     },
     {
+      "type": "application/spawnpoint",
+      "content": {
+        "position": [47.21,1.52,7.70],
+        "quaternion": [0, 0.0,0, 0.0]
+      }
+    },
+    {
       "type": "application/light",
       "content": {
         "lightType": "spot",
@@ -187,6 +194,11 @@
      {
       "position":[0,0,0],
       "start_url":"https://ImranBary.github.io/webaverse/audio/more_spooky.js",
+      "dynamic":false
+    },
+    {
+      "position":[70.667,3.3,23.358],
+      "start_url":"https://ImranBary.github.io/webaverse/audio/flicker.js",
       "dynamic":false
     },
     {
